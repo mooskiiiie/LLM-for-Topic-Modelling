@@ -12,4 +12,4 @@ LLM or Large Language Models are advanced models that are trained on enormous am
 
 # Objective of the Project
 
-Using LLM (Google Palm), generate labeled topics and their corresponding keywords to understand the drivers of dissastifaction.
+Using LLM (Google Palm), generate labeled topics and their corresponding keywords to understand the drivers of dissastifaction. Feel free to make use of any other LLMs
